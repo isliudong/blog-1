@@ -8,7 +8,7 @@ source $HOME/.bash_profile
 # 项目信息
 dirName='blog-1/blog-springboot'
 appName='blog-1'
-port=9090
+port=7070
 
 #======================= 工具方法 ========================
 
